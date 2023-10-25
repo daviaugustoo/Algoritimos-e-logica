@@ -1,6 +1,6 @@
 # 📋 Índice
-- [Problema "terreno"](#-Problema_"terreno")
-- [Problema "duracao"](#-Problema "duracao")
+- [Problema "terreno"](#-problema-"terreno")
+- [Problema "duracao"](#-problema-"duracao")
 
 
 # Problema "terreno"
