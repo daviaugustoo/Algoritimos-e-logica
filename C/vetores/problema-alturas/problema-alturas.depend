@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698441269 source:c:\users\soare\code\algoritimos-e-logica\c\vetores\problema-alturas\main.c
+	<stdio.h>
+	<stdlib.h>
+
