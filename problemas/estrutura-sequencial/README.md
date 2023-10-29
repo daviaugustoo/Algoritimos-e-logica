@@ -1,7 +1,6 @@
 # 📋 Índice
 ### Estrutura sequecial
 - [Problema "terreno"](#problema-terreno)
-- [Problema "duracao"](#problema-duracao)
 - [Problema "retangulo"](#problema-retangulo)
 - [Problema "idades"](#problema-idades)
 - [Problema "soma"](#problema-soma)
@@ -10,6 +9,7 @@
 - [Problema "pagamento"](#problema-pagamento)
 - [Problema "consumo"](#problema-consumo)
 - [Problema "medidas"](#problema-medidas)
+- [Problema "duracao"](#problema-duracao)
 ---
 # Problema "terreno"
 Fazer um programa para ler as medidas da largura e comprimento de um terreno retangular com uma

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698586429 source:c:\users\soare\code\algoritimos-e-logica\c\matrizes\problema-soma-matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+

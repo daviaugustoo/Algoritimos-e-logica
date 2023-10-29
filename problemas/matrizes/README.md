@@ -1,18 +1,12 @@
 # 📋 Índice
 ### Matrizes
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
+- [Problema "diagonal negativos"](#problema-diagonal_negativos)
+- [Problema "soma linhas"](#problema-soma_linhas)
+- [Problema "negativos matriz"](#problema-negativos_matriz)
+- [Problema "cada linha"](#problema-cada_linha)
+- [Problema "soma_matrizes"](#problema-soma_matrizes)
+- [Problema "acima diagonal"](#problema-acima_diagonal)
+- [Problema "matriz geral"](#problema-matriz_geral)
 ---
 # Problema "diagonal_negativos"
 Fazer um programa para ler um número inteiro N (máximo = 10) e uma matriz quadrada de ordem N

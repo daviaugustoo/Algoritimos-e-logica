@@ -1,18 +1,17 @@
 # 📋 Índice
 ### Vetores
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
-- [Problema ""](#problema-)
+- [Problema "negativos"](#problema-negativos)
+- [Problema "soma vetor"](#problema-soma_vetor)
+- [Problema "alturas"](#problema-alturas)
+- [Problema "numeros pares"](#problema-numeros_pares)
+- [Problema "maior posicao"](#problema-maior_posicao)
+- [Problema "soma vetores"](#problema-soma_vetores)
+- [Problema "abaixo da media"](#problema-abaixo_da_media)
+- [Problema "media pares"](#problema-media_pares)
+- [Problema "mais velho"](#problema-mais_velho)
+- [Problema "aprovados"](#problema-aprovados)
+- [Problema "dados pessoas"](#problema-dados_pessoas)
+- [Problema "comerciante"](#problema-comerciante)
 ---
 # Problema "negativos"
 Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698599712 source:c:\users\soare\code\algoritimos-e-logica\c\vetores\problema-media-pares\main.c
+	<stdio.h>
+	<stdlib.h>
+

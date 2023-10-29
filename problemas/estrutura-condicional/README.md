@@ -2,17 +2,17 @@
 ### Estrutura condicional
 - [Problema "notas"](#problema-notas)
 - [Problema "baskara"](#problema-baskara)
-- [Problema "menor-de-tres"](#problema-menor-de-tres)
+- [Problema "menor de tres"](#problema-menor_de_tres)
 - [Problema "operadora"](#problema-operadora)
-- [Problema "troco-verificado"](#problema-troco-verificado)
+- [Problema "troco verificado"](#problema-troco_verificado)
 - [Problema "glicose"](#problema-glicose)
 - [Problema "dardo"](#problema-dardo)
 - [Problema "temperatura"](#problema-temperatura)
-- [Problema "lanchonete"](#problema-lanchonete)
-- [Problema "multiplos"](#problema-multiplos)
-- [Problema "aumento"](#problema-aumento)
-- [Problema "tempo-de-jogo"](#problema-tempo-de-jogo)
-- [Problema "coordenadas"](#problema-coordenadas)
+- [Problema "lanchonete"](#problema-lanchonete-adaptado-de-uri-1038)
+- [Problema "multiplos"](#problema-multiplos-adaptado-de-uri-1044)
+- [Problema "aumento"](#problema-aumento-adaptado-de-uri-1048)
+- [Problema "tempo de jogo"](#problema-tempo_de_jogo-adaptado-de-uri-1046)
+- [Problema "coordenadas"](#problema-coordenadas-adaptado-de-uri-1041)
 ---
 # Problema "notas"
 Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de
