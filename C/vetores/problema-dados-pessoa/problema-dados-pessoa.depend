@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698685151 source:c:\users\soare\code\algoritimos-e-logica\c\vetores\problema-dados-pessoa\main.c
+	<stdio.h>
+	<stdlib.h>
+

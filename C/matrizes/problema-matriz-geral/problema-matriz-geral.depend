@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698793185 source:c:\users\soare\code\algoritimos-e-logica\c\matrizes\problema-matriz-geral\main.c
+	<stdio.h>
+	<stdlib.h>
+
