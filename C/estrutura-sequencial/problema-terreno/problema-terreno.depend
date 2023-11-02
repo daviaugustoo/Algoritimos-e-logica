@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698845913 source:c:\users\soare\code\algoritimos-e-logica\c\estrutura-sequencial\problema-terreno\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698889337 source:c:\users\soare\code\algoritimos-e-logica\c\estrtura-repetitiva\problema-media-idades\main.c
+	<stdio.h>
+	<stdlib.h>
+

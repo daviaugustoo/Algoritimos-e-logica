@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698846622 source:c:\users\soare\code\algoritimos-e-logica\c\estrutura-sequencial\problema-retangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

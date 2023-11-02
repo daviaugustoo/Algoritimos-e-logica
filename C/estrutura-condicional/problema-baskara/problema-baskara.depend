@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698880393 source:c:\users\soare\code\algoritimos-e-logica\c\estrutura-condicional\problema-baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

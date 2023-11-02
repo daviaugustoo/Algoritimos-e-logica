@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698894753 source:c:\users\soare\code\algoritimos-e-logica\c\estrtura-repetitiva\problema-soma-impares\main.c
+	<stdio.h>
+	<stdlib.h>
+
