@@ -1,1 +1,0 @@
-Aqui é o local onde vai estar o enunciado dos exercicos realizados 
