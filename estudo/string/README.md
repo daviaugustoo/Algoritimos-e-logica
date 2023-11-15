@@ -10,14 +10,19 @@ Em linguagem C
 - É preciso entender como os dados estão dispostos nem memória
 - Operação sobre caractéres individuais
 
-|0|1|2|3|4|
-|O|L|Á|!|\0|
+| 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| O | L | Á | ! | \0|
 
-    scanf("%s", <str>); // Essa é uma sintaxe geral que nao ira armezenar espaço caso o usuario o digite, tambem seria possivel digitar maior quantidade de numeros do que o tamanho do vetor.
+    scanf("%s", <str>); 
+    // Essa é uma sintaxe geral que nao ira armezenar espaço caso o usuario o digite, 
+    tambem seria possivel digitar maior quantidade de numeros do que o tamanho do vetor.
 
     scanf("%<tamanho - 1>[^\n]s, <str>);
-    // <tamanho - 1> tamanho representa quntas posiçoes o vetor de char vai armazenar, é usado essa expressao para que limite o tamanho do que o usuario vai digitar.
-    //[^\n] é feito isso antes do 's' para que tudo antes do enter seja lido, ou seja, lendo os espaços.
+    // <tamanho - 1> tamanho representa quntas posiçoes o vetor de char vai armazenar, é usado essa expressao 
+    para que limite o tamanho do que o usuario vai digitar.
+
+    // [^\n] é feito isso antes do 's' para que tudo antes do enter seja lido, ou seja, lendo os espaços.
 
 ### Exemplo
     int main(){
