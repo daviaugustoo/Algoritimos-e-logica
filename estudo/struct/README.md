@@ -4,7 +4,7 @@
 
 Em programação, uma `struct` (estrutura) é uma maneira de agrupar diferentes tipos de dados sob um mesmo nome. Ela permite que você defina um novo tipo de dado, composto por outros tipos de dados, para representar uma entidade mais complexa.
 
-    - Exemplo em C
+    // Exemplo em C
 
     struct Pessoa {
         char nome[50];
@@ -18,7 +18,7 @@ Neste exemplo, criamos uma struct chamada Pessoa que contém informações sobre
 
 Uma vez que você tenha definido uma struct, pode criar variáveis desse tipo e acessar seus membros usando o operador ponto (.).
 
-    Exemplo em C
+    // Exemplo em C
 
     struct Pessoa pessoa1;
 
@@ -37,9 +37,9 @@ Uma vez que você tenha definido uma struct, pode criar variáveis desse tipo e 
 As structs são úteis quando você precisa agrupar diferentes tipos de dados relacionados. Elas são comumente usadas para representar entidades complexas em programação, como registros em um banco de dados, informações de contato, entre outros.
 
     struct Contato {
-    char nome[50];
-    char email[50];
-    char telefone[15];
+        char nome[50];
+        char email[50];
+        char telefone[15];
     };
 
     // Exemplo de uso
