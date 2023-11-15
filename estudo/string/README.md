@@ -20,8 +20,7 @@ Em linguagem C
 
     scanf("%<tamanho - 1>[^\n]s, <str>);
     // <tamanho - 1> tamanho representa quntas posiçoes o vetor de char vai armazenar, 
-    é usado essa expressao 
-    para que limite o tamanho do que o usuario vai digitar.
+    é usado essa expressao para que limite o tamanho do que o usuario vai digitar.
 
     // [^\n] é feito isso antes do 's' para que tudo antes do enter seja lido, ou seja, 
     lendo os espaços.
