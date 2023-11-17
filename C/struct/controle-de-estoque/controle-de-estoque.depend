@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1700222982 source:c:\users\soare\code\algoritimos-e-logica\c\struct\controle-de-estoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadastrarProduto.h"
+
+1700223441 c:\users\soare\code\algoritimos-e-logica\c\struct\controle-de-estoque\cadastrarproduto.h
+
+1700223479 source:c:\users\soare\code\algoritimos-e-logica\c\struct\controle-de-estoque\cadastrarproduto.c
+	"cadastrarProduto.h"
+	<stdio.h>
+
