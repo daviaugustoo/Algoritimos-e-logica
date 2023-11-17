@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700184769 source:c:\users\soare\code\algoritimos-e-logica\c\struct\registro-de-funcionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+

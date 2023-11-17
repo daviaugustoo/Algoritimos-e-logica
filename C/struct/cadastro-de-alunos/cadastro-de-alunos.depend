@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700178989 source:c:\users\soare\code\algoritimos-e-logica\c\struct\cadastro-de-alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+
