@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700313570 source:c:\users\soare\code\algoritimos-e-logica\c\struct\cadastro-de-livro\main.c
+	<stdio.h>
+	<stdlib.h>
+
