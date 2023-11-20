@@ -68,7 +68,7 @@ Aqui vimos um conjunto de operações básicas para manipulação de strings em 
 
 ## Biblioteca string.h
 
-- Sintaxe de funções importante: 
+Sintaxe de funções importante: 
     strcpy(<destino>, <origem>); // Usado para alterar o conteudo de uma string
     strcat(<destino>, <origem>); // Usado para colar uma string na outra 
     strlen(<string>); // Mostra o tamanho da string
