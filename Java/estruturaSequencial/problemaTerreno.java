@@ -7,18 +7,21 @@ public class problemaTerreno {
 
         double largura, comprimento, preco;
         
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite a largura do terreno: ");
-        largura = scanner.nextDouble();
+        largura = sc.nextDouble();
 
         System.out.println("Digite o comprimento do terreno: ");
-        comprimento = scanner.nextDouble();
+        comprimento = sc.nextDouble();
 
         System.out.println("Digite o valor do metro quadrado: ");
-        preco = scanner.nextDouble();
+        preco = sc.nextDouble();
 
         System.out.println("Área do terreno: " + (largura * comprimento));
         System.out.println("Preço do terreno: " + ((largura * comprimento) * preco));
+
+        sc.close(); 
+
     }
 }
