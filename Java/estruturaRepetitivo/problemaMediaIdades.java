@@ -1,3 +1,5 @@
+package Java.estruturaRepetitivo;
+
 import java.util.Scanner;
 
 public class problemaMediaIdades {
