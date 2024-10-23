@@ -16,7 +16,7 @@ public class problemaMediaIdades {
                 break;
             }
 
-            idadeTotal += idade;
+            idadeTotal += idade; //teste
             totalPessoas++;
         }
 
