@@ -41,6 +41,9 @@ public class Pilha<E> {
 		
 	}
 	
+	/* Exercício 1:
+	Implemente o método public void concatenar (Pilha<E> pilha), capaz de
+	concatenar, ao final da pilha original, a pilha passada como parâmetro. */
 	public void concatenar(Pilha<E> pilha) {
 		
 		Pilha<E> aux = new Pilha<E>(); 
@@ -59,6 +62,9 @@ public class Pilha<E> {
 	
 	}
 
+	/* Exercício 2:
+	Implemente a função public int obterNumeroItens(), que retorna o número de
+	itens da pilha. */ 
 	public int obterNumeroItens() {
 
 		int contador = 0;
@@ -73,7 +79,9 @@ public class Pilha<E> {
 		return contador;
 	}
 
-	public void inverter() {
+	/* Exercício3:
+	Implemente o método public void inverter(), capaz de inverter a pilha */
+	public void inverter() { // Foi Escolha pessoal inverter na original
 
 		Pilha<E> aux = new Pilha<E>();
 		Pilha<E> aux2 = new Pilha<E>();
