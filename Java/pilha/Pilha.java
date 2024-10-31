@@ -100,6 +100,22 @@ public class Pilha<E> {
 
 	}
 
+	// Exercício que caiu na prova de aeds2
+
+	public Pilha<E> duplicarPilha(Pilha<E> pilha){
+
+		Pilha<E> resultado = new Pilha<E>();
+		Celula<E> aux = topo;
+
+		while (aux != fundo) {
+			resultado.empilhar(aux.getItem());
+			resultado.empilhar(aux.getItem());
+			aux = aux.getProximo();
+		}
+
+		return resultado;
+	}
+
 	public void exibir() {
 
 		if (vazia()) {

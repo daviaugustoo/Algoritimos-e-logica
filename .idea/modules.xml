@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algoritimos-e-logica.iml" filepath="$PROJECT_DIR$/Algoritimos-e-logica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Algoritimos-e-logica2.iml" filepath="$PROJECT_DIR$/Java/Algoritimos-e-logica2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/lista/lista.iml" filepath="$PROJECT_DIR$/Java/lista/lista.iml" />
+    </modules>
+  </component>
+</project>
